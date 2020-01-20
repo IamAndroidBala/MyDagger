@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!--<color name="colorPrimary">#3F51B5</color>
+  <color name="colorPrimaryDark">#303F9F</color>
+  <color name="colorAccent">#FF4081</color>-->
+
+  <color name="oddEntry">#9E9E9E</color>
+  <color name="colorDivider">#C7B1B1</color>
+  <color name="colorBlack"> #000</color>
+  <color name="colorWhite"> #fff</color>
+  <color name="colorPrimary">#2196F3</color>
+  <color name="colorPrimaryDark">#3F51B5</color>
+  <color name="transparent">      #f1f2f2</color>
+
+  <color name="sunflower_black">#de000000</color>
+  <color name="sunflower_gray_50">#fafafa</color>
+  <color name="sunflower_green_500">#49bb79</color>
+  <color name="sunflower_green_700">#005d2b</color>
+  <color name="sunflower_yellow_500">#ffff63</color>
+
+</resources>
