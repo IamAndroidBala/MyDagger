@@ -34,7 +34,6 @@ class PhotosActivity : AppCompatActivity(), PhotoView {
         (application as SocialApplication).postComponent.inject(this)
 
         recyclerPhotos.setHasFixedSize(true)
-        //recyclerPhotos.layoutManager = GridLayoutManager(applicationContext,3)
 
         photoAdapter = PhotoAdapter(thisList,this@PhotosActivity)
         recyclerPhotos.adapter = photoAdapter

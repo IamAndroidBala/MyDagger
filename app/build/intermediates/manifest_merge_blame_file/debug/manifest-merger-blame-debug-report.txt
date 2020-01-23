@@ -15,7 +15,7 @@
 11-->/Users/bala/Documents/GitHub/MyDagger/app/src/main/AndroidManifest.xml:5:22-64
 12
 13    <application
-13-->/Users/bala/Documents/GitHub/MyDagger/app/src/main/AndroidManifest.xml:7:5-35:19
+13-->/Users/bala/Documents/GitHub/MyDagger/app/src/main/AndroidManifest.xml:7:5-33:19
 14        android:name="com.android.bala.dagger.application.SocialApplication"
 14-->/Users/bala/Documents/GitHub/MyDagger/app/src/main/AndroidManifest.xml:8:9-77
 15        android:allowBackup="true"
@@ -57,30 +57,27 @@
 34-->/Users/bala/Documents/GitHub/MyDagger/app/src/main/AndroidManifest.xml:24:19-84
 35            android:theme="@style/AppTheme" />
 35-->/Users/bala/Documents/GitHub/MyDagger/app/src/main/AndroidManifest.xml:25:13-44
-36
-37        <!-- android:theme="@style/Theme.Sunflower.NoActionBar" -->
-38
+36        <activity
+36-->/Users/bala/Documents/GitHub/MyDagger/app/src/main/AndroidManifest.xml:27:9-28:46
+37            android:name="com.android.bala.dagger.ui.commentscreen.CommentsActivity"
+37-->/Users/bala/Documents/GitHub/MyDagger/app/src/main/AndroidManifest.xml:27:19-68
+38            android:theme="@style/AppTheme" />
+38-->/Users/bala/Documents/GitHub/MyDagger/app/src/main/AndroidManifest.xml:28:13-44
 39        <activity
-39-->/Users/bala/Documents/GitHub/MyDagger/app/src/main/AndroidManifest.xml:29:9-30:46
-40            android:name="com.android.bala.dagger.ui.commentscreen.CommentsActivity"
-40-->/Users/bala/Documents/GitHub/MyDagger/app/src/main/AndroidManifest.xml:29:19-68
+39-->/Users/bala/Documents/GitHub/MyDagger/app/src/main/AndroidManifest.xml:30:9-31:46
+40            android:name="com.android.bala.dagger.ui.photoscreen.PhotosActivity"
+40-->/Users/bala/Documents/GitHub/MyDagger/app/src/main/AndroidManifest.xml:30:19-64
 41            android:theme="@style/AppTheme" />
-41-->/Users/bala/Documents/GitHub/MyDagger/app/src/main/AndroidManifest.xml:30:13-44
-42        <activity
-42-->/Users/bala/Documents/GitHub/MyDagger/app/src/main/AndroidManifest.xml:32:9-33:46
-43            android:name="com.android.bala.dagger.ui.photoscreen.PhotosActivity"
-43-->/Users/bala/Documents/GitHub/MyDagger/app/src/main/AndroidManifest.xml:32:19-64
-44            android:theme="@style/AppTheme" />
-44-->/Users/bala/Documents/GitHub/MyDagger/app/src/main/AndroidManifest.xml:33:13-44
-45
-46        <provider
-46-->[com.squareup.picasso:picasso:2.71828] /Users/bala/.gradle/caches/transforms-2/files-2.1/d6eee234fe1dc65615f51e1b602ebd17/jetified-picasso-2.71828/AndroidManifest.xml:8:9-11:40
-47            android:name="com.squareup.picasso.PicassoProvider"
-47-->[com.squareup.picasso:picasso:2.71828] /Users/bala/.gradle/caches/transforms-2/files-2.1/d6eee234fe1dc65615f51e1b602ebd17/jetified-picasso-2.71828/AndroidManifest.xml:9:13-64
-48            android:authorities="com.android.bala.dagger.com.squareup.picasso"
-48-->[com.squareup.picasso:picasso:2.71828] /Users/bala/.gradle/caches/transforms-2/files-2.1/d6eee234fe1dc65615f51e1b602ebd17/jetified-picasso-2.71828/AndroidManifest.xml:10:13-72
-49            android:exported="false" />
-49-->[com.squareup.picasso:picasso:2.71828] /Users/bala/.gradle/caches/transforms-2/files-2.1/d6eee234fe1dc65615f51e1b602ebd17/jetified-picasso-2.71828/AndroidManifest.xml:11:13-37
-50    </application>
-51
-52</manifest>
+41-->/Users/bala/Documents/GitHub/MyDagger/app/src/main/AndroidManifest.xml:31:13-44
+42
+43        <provider
+43-->[com.squareup.picasso:picasso:2.71828] /Users/bala/.gradle/caches/transforms-2/files-2.1/d6eee234fe1dc65615f51e1b602ebd17/jetified-picasso-2.71828/AndroidManifest.xml:8:9-11:40
+44            android:name="com.squareup.picasso.PicassoProvider"
+44-->[com.squareup.picasso:picasso:2.71828] /Users/bala/.gradle/caches/transforms-2/files-2.1/d6eee234fe1dc65615f51e1b602ebd17/jetified-picasso-2.71828/AndroidManifest.xml:9:13-64
+45            android:authorities="com.android.bala.dagger.com.squareup.picasso"
+45-->[com.squareup.picasso:picasso:2.71828] /Users/bala/.gradle/caches/transforms-2/files-2.1/d6eee234fe1dc65615f51e1b602ebd17/jetified-picasso-2.71828/AndroidManifest.xml:10:13-72
+46            android:exported="false" />
+46-->[com.squareup.picasso:picasso:2.71828] /Users/bala/.gradle/caches/transforms-2/files-2.1/d6eee234fe1dc65615f51e1b602ebd17/jetified-picasso-2.71828/AndroidManifest.xml:11:13-37
+47    </application>
+48
+49</manifest>

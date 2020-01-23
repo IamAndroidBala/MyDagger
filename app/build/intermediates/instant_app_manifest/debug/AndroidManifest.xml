@@ -34,9 +34,6 @@
         <activity
             android:name="com.android.bala.dagger.ui.homescreen.HomeActivity"
             android:theme="@style/AppTheme" />
-
-        <!-- android:theme="@style/Theme.Sunflower.NoActionBar" -->
-
         <activity
             android:name="com.android.bala.dagger.ui.commentscreen.CommentsActivity"
             android:theme="@style/AppTheme" />
