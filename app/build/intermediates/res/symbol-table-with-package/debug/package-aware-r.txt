@@ -1373,7 +1373,6 @@ drawable ic_mtrl_chip_close_circle
 drawable ic_phone
 drawable ic_post_dark
 drawable ic_post_primary
-drawable ic_splashscreen
 drawable ic_user_dark
 drawable ic_user_primary
 drawable ic_work
@@ -1404,7 +1403,6 @@ drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
 drawable rounded_textview
 drawable splashscreen
-drawable splashscreen_bg
 drawable test_custom_background
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
@@ -1875,7 +1873,6 @@ layout text_view_with_line_height_from_layout
 layout text_view_with_line_height_from_style
 layout text_view_with_theme_line_height
 layout text_view_without_line_height
-mipmap ic_launcher
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description
 string abc_action_bar_home_description

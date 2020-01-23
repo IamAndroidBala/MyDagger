@@ -6,6 +6,6 @@ import javax.inject.Inject
 class AppLog @Inject constructor() {
 
     fun d(message : String) {
-        Log.d("MyApp",  "=> $message")
+        Log.d(AppLog::class.java.name,  "=> $message")
     }
 }
