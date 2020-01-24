@@ -61,6 +61,6 @@ class NetworkModule {
 
   @Provides
   @Singleton
-  fun provideWikiApi(client: OkHttpClient, requestBuilder: HttpUrl.Builder?) = ApiBuilder(client, requestBuilder)
+  fun provideApi(client: OkHttpClient, requestBuilder: HttpUrl.Builder?) = ApiBuilder(client, requestBuilder)
 
 }

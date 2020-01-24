@@ -3,7 +3,6 @@ package com.android.bala.dagger.ui.homescreen
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.viewpager.widget.ViewPager
-import butterknife.ButterKnife
 import com.android.bala.dagger.R
 import kotlinx.android.synthetic.main.activity_home.*
 
